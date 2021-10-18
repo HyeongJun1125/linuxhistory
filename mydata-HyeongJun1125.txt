@@ -3,3 +3,5 @@
 학과: 소프트웨어학과
 학년: 1
 수강과목: OpenSource-Software
+오늘의 좋은 문구: Fake it till you make it 
+                 (될 때까지 그런 척하면 그렇게 된다)
